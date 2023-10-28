@@ -1,1 +1,1 @@
-ISRPO4CURS
+API for site recipes
