@@ -1,1 +1,1 @@
-API for site recipes
+API and server for site recipes
